@@ -1,2 +1,5 @@
-# NataliaTenorioMaia-MachineLearning_AndrewNg_PythonSolutions
-Python solutions to Andrew Ng's Machine Learning homework problems.
+# MachineLearning_AndrewNg_PythonSolutions
+
+Andrew Ng's Machine Learning course at Coursera is a classic set of lessons amongst those who are starting to learn about the theory and practice of Machine Learning. Originally, the homework assignments are intended to be solved using Octave. But here I present solutions for those assignments using Python, since it is one of the most popular programming languages used in Machine Learning at the current times. The solutions for each assignment are organized in jupyter notebooks. I advise the student to, if possible, first solve all exercises in Octave, then solve them in Python. This will give the student a richer experience, improving their culture on different programming languages and reinforcing their understanding of the subjects of the course.
+
+WARNING: If you are currently studying Andrew Ng's course, I strongly advise you **NOT** to look at the solutions for the assignments before you have tried to solve them yourself, otherwise you would greatly spoil your process of learning.
