@@ -1,0 +1,9 @@
+copy
+matplotlib
+mlxtend
+numpy
+PIL
+re
+scipy
+sympy
+sklearn
